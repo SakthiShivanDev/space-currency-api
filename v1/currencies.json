@@ -1,5 +1,5 @@
 {
-  data:[
+  "currencies":[
   { "code": "USD", "name": "United States Dollar", "symbol": "$" },
   { "code": "AED", "name": "United Arab Emirates Dirham", "symbol": "د.إ" },
   { "code": "AFN", "name": "Afghan Afghani", "symbol": "؋" },
